@@ -1,0 +1,35 @@
+# Visual Studio build output and per-user state
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.VC.db
+*.VC.VC.opendb
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# Compiled objects and binaries
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.tlog
+*.log
+*.lastbuildstate
+*.cache
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fish's number game.vcxproj" Id="c7df3651-297b-402b-ae92-9314803a8514" />
+</Solution>
